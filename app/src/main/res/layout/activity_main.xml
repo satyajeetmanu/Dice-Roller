@@ -12,6 +12,11 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:layout_gravity="center_horizontal"
-        android:text="Hello World!" />
+        android:text="1" />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Roll"
+        android:layout_gravity="center_horizontal"/>
 
 </LinearLayout>
